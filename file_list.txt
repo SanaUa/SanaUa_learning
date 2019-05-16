@@ -1,3 +1,5 @@
-readme.txt
-k001.jpg
-lmkjnh.jpg 
+readme.txt - 1 Commit
+k001.jpg - 1 Commit
+lmkjnh.jpg - 2 Commit
+test.txt - 3 Commit c сервера
+126.jpg - 5 Commit (4 будет на сервере на ветке мастер)
